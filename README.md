@@ -3,4 +3,4 @@ Apre 4th Homework (22-23) @ IST
 
 Language: Python
 
-GRADE: NG/20
+GRADE: 19.5/20
